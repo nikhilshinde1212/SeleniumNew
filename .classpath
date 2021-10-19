@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Admin/Downloads/jar_files.zip"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Array"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/ControlStatements"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Exceptionhandling"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Introduction"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Keywords"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/MavenProject"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/oopsConcept"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/String"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
